@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: FreeBSD Github Migration Proposal
+description: Proposal for Github migration of the FreeBSD project from Bugzilla/Phabricator/MoinMoin
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://fel1x-developer.github.io/freebsd-github-migration
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
